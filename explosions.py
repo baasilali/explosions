@@ -12,8 +12,8 @@ with a wall. The simulation features:
 The simulation uses Tkinter for the GUI and implements a simple 2D physics engine
 for ball movement and collisions.
 
-Author: [Your Name]
-Date: [Current Date]
+Author: Baasil Ali
+Date: April 16th, 2025
 """
 
 import tkinter as tk
