@@ -1,7 +1,7 @@
 # NO - AI Used.
 
 During the recent development of "vibe-coding," I wanted to continue to refine my raw-skills. 
-This project is the first iteration of my "NO-AI" projects to continue developing my personal development skills.
+This project is the first iteration of my "NO-AI" projects to continue developing my personal skills.
 
 
 # Physics Ball Explosion Simulator
