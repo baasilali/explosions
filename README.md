@@ -49,7 +49,3 @@ The simulation implements:
 - Wall bouncing with energy loss
 - Velocity-based explosion particle generation
 - Particle-to-particle collisions
-
-## License
-
-MIT License 
