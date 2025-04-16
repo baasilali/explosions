@@ -1,3 +1,9 @@
+# NO - AI Used.
+
+During the recent development of "vibe-coding," I wanted to continue to refine my raw-skills. 
+This project is the first iteration of my "NO-AI" projects to continue developing my personal development skills.
+
+
 # Physics Ball Explosion Simulator
 
 A Python-based physics simulation that demonstrates ball movement, collisions, and explosions using Tkinter.
