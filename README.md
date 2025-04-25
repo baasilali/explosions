@@ -1,4 +1,4 @@
-# NO - AI Used.
+# Demo
 
 ![Physics Ball Explosion Demo](assets/explosion.gif)
 
